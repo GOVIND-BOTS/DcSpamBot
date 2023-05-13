@@ -20,7 +20,7 @@ ALIVE_PIC = getenv("ALIVE_PIC", "https://te.legra.ph/file/e423cd7f9c3ce51d48d20.
 
 TOKEN1 = getenv("TOKEN1", "6032040315:AAFyBtAEBGf3RDgl-DjSiQUejFexmeDDnDI") 
 TOKEN2 = getenv("TOKEN2", "6087616147:AAHYk5umnz10lgJpRs6-IvGbuUEfXh_RR5E") 
-TOKEN3 = getenv("TOKEN3", NOne) 
+TOKEN3 = getenv("TOKEN3", None) 
 TOKEN4 = getenv("TOKEN4", None) 
 TOKEN5 = getenv("TOKEN5", None) 
 TOKEN6 = getenv("TOKEN6", None) 
